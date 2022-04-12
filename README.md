@@ -8,6 +8,10 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 ![](.gitbook/assets/image.png)
 
+
+
+![](<.gitbook/assets/image (1).png>)
+
 > Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
 >
 > With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
